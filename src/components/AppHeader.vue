@@ -73,13 +73,20 @@ export default {
 #logo {
   width: 50px;
 }
+
+.nav-item {
+  a {
+    color: $mainBrown;
+  }
+}
 // Search button 
 .btn_custom {
-  border-color: $blushPink;
-  color: $blushPink;
+  background-color: $cherryPink;
+  color: $mainBrown;
 
   &:hover {
-    background-color: $cherryPink;
+    border-color: $blushPink;
+    color: $blushPink;
   }
 }
 </style>

@@ -30,8 +30,28 @@ export default {
                     <li class="list-inline-item p-1"><a href="#">Privacy Policy</a></li>
                     <li class="list-inline-item p-1"><a href="#">Contattaci</a></li>
                 </ul>
-                <a href="https://lordicon.com/" id="icons">Animated icons by Lordicon.com</a>
-                <p>© CutECards. Tutti i diritti riservati.</p>
+
+                <!-- Socials -->
+                <div>
+                    <!-- Github -->
+                    <span class="p-3">
+                        <a href="https://github.com/lauraoliveri">
+                            <i class="fa-brands fa-github fa-bounce fa-2xl" style="color: #5F4B4B;"></i>
+                        </a>
+                    </span>
+
+                    <!-- Linkedin -->
+                    <span class="p-3">
+                        <a href="https://www.linkedin.com/in/laura-salvatrice-oliveri-48a5b7216/">
+                            <i class="fa-brands fa-linkedin fa-bounce fa-2xl" style="color: #5F4B4B;"></i>
+                        </a>
+                    </span>
+                </div>
+                <div class="pt-1">
+                    <a href="https://lordicon.com/" class="icons_copyrights">Animated icons by Lordicon.com</a>
+                    <p class="icons_copyrights">Icons by <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>
+                    <p>© CutECards. Tutti i diritti riservati.</p>
+                </div>
             </div>
         </div>
     </div>
@@ -43,7 +63,7 @@ export default {
 
 
 footer {
-    height: 210px;
+    height: 270px;
     background-color: $blushPink;
     padding: 30px 20px;
     color: $mainBrown;
@@ -66,7 +86,7 @@ a {
     }
 }
 
-#icons {
+.icons_copyrights {
     font-size: 10px;
     color: $mainBrown;
 }

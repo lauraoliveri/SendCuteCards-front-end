@@ -23,8 +23,7 @@ export default {
 
           <!-- Main Title -->
           <h1>
-            Rendi unico ogni momento<br>
-            con le nostre card<br>
+            La Tua Card in 3 Semplici Passaggi
           </h1>
         </div>
       </div>
