@@ -17,7 +17,11 @@ export default {
         <span>
           <img src="../../public/greeting-card.svg" id="logo">
         </span>
-        <a class="navbar-brand" href="#">CutEcards</a> 
+        <a class="navbar-brand" href="#">
+          <router-link :to="{ name:'home' }">
+            CutEcards
+          </router-link>
+        </a> 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

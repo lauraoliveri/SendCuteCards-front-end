@@ -21,9 +21,7 @@ export default {
 </script>
 
 <template>
-  <div>
-    no
-  </div>
+  
 </template>
 
 <style lang="scss" scoped>

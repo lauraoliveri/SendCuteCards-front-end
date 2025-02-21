@@ -1,0 +1,271 @@
+[
+    {
+      "id": 1,
+      "title": "Buon Compleanno!",
+      "image": "https://example.com/images/birthday1.jpg",
+      "message": "Tanti auguri di buon compleanno! 🎉",
+      "category": "Compleanno"
+    },
+    {
+      "id": 2,
+      "title": "Un anno in più, un sorriso in più!",
+      "image": "https://example.com/images/birthday2.jpg",
+      "message": "Che questa giornata ti porti tanta felicità!",
+      "category": "Compleanno"
+    },
+    {
+      "id": 3,
+      "title": "Buona Pasqua!",
+      "image": "https://example.com/images/easter1.jpg",
+      "message": "Che la Pasqua ti porti pace e serenità! 🐣",
+      "category": "Pasqua"
+    },
+    {
+      "id": 4,
+      "title": "Felice San Valentino!",
+      "image": "https://example.com/images/valentine1.jpg",
+      "message": "L’amore è nell’aria! 💕",
+      "category": "San Valentino"
+    },
+    {
+      "id": 5,
+      "title": "Auguri per il vostro Matrimonio!",
+      "image": "https://example.com/images/wedding1.jpg",
+      "message": "Che la vostra unione sia piena di gioia e amore! 💍",
+      "category": "Matrimonio"
+    },
+    {
+      "id": 6,
+      "title": "Grazie di cuore!",
+      "image": "https://example.com/images/thank-you1.jpg",
+      "message": "Un piccolo pensiero per ringraziarti! 🙏",
+      "category": "Ringraziamento"
+    },
+    {
+      "id": 7,
+      "title": "Tanti auguri!",
+      "image": "https://example.com/images/greetings1.jpg",
+      "message": "Un augurio speciale solo per te! ✨",
+      "category": "Auguri"
+    },
+    {
+      "id": 8,
+      "title": "Complimenti!",
+      "image": "https://example.com/images/congrats1.jpg",
+      "message": "Congratulazioni per questo grande traguardo! 🎉",
+      "category": "Congratulazioni"
+    },
+    {
+      "id": 9,
+      "title": "Benvenuto al mondo!",
+      "image": "https://example.com/images/birth1.jpg",
+      "message": "Tanti auguri per il nuovo arrivato! 👶",
+      "category": "Nascita"
+    },
+    {
+      "id": 10,
+      "title": "Buona Festa della Mamma!",
+      "image": "https://example.com/images/mothers-day1.jpg",
+      "message": "Grazie per tutto quello che fai! ❤️",
+      "category": "Festa della mamma"
+    },
+    {
+      "id": 11,
+      "title": "Buona Festa del Papà!",
+      "image": "https://example.com/images/fathers-day1.jpg",
+      "message": "Un grande abbraccio a un papà speciale! 💙",
+      "category": "Festa del papà"
+    },
+    {
+      "id": 12,
+      "title": "Per un'amica speciale",
+      "image": "https://example.com/images/friendship1.jpg",
+      "message": "Grazie per essere sempre presente! 💕",
+      "category": "Amicizia"
+    },
+    {
+      "id": 13,
+      "title": "Felice Anno Nuovo!",
+      "image": "https://example.com/images/newyear1.jpg",
+      "message": "Che l’anno nuovo ti porti tanta gioia e successi! 🎆",
+      "category": "Capodanno"
+    },
+    {
+      "id": 14,
+      "title": "Congratulazioni per la Laurea!",
+      "image": "https://example.com/images/graduation1.jpg",
+      "message": "Ce l’hai fatta! Ora inizia una nuova avventura! 🎓",
+      "category": "Laurea"
+    },
+    {
+      "id": 15,
+      "title": "Buona Fortuna!",
+      "image": "https://example.com/images/goodluck1.jpg",
+      "message": "Che la fortuna sia sempre dalla tua parte! 🍀",
+      "category": "Buona Fortuna"
+    },
+    {
+      "id": 16,
+      "title": "Un pensiero speciale per te",
+      "image": "https://example.com/images/other1.jpg",
+      "message": "Un piccolo gesto per dirti che ti penso! 💕",
+      "category": "Altro"
+    },
+    {
+        "id": 17,
+        "title": "Buon Compleanno!",
+        "image": "https://example.com/images/birthday1.jpg",
+        "message": "Tanti auguri di buon compleanno! 🎉",
+        "category": "Compleanno"
+    },
+    {
+        "id": 18,
+        "title": "Un anno in più, un sorriso in più!",
+        "image": "https://example.com/images/birthday2.jpg",
+        "message": "Che questa giornata ti porti tanta felicità!",
+        "category": "Compleanno"
+    },
+    {
+        "id": 19,
+        "title": "Auguri di cuore!",
+        "image": "https://example.com/images/birthday3.jpg",
+        "message": "Un altro anno di esperienze meravigliose!",
+        "category": "Compleanno"
+    },
+    {
+        "id": 20,
+        "title": "Buona Pasqua!",
+        "image": "https://example.com/images/easter1.jpg",
+        "message": "Che la Pasqua ti porti pace e serenità! 🐣",
+        "category": "Pasqua"
+    },
+    {
+        "id": 21,
+        "title": "Felice Pasqua a te e alla tua famiglia!",
+        "image": "https://example.com/images/easter2.jpg",
+        "message": "Che la gioia della Pasqua riempia i vostri cuori!",
+        "category": "Pasqua"
+    },
+    {
+        "id": 22,
+        "title": "Felice San Valentino!",
+        "image": "https://example.com/images/valentine1.jpg",
+        "message": "L’amore è nell’aria! 💕",
+        "category": "San Valentino"
+    },
+    {
+        "id": 23,
+        "title": "Ti amo più di ieri e meno di domani!",
+        "image": "https://example.com/images/valentine2.jpg",
+        "message": "Buon San Valentino, amore mio!",
+        "category": "San Valentino"
+    },
+    {
+        "id": 24,
+        "title": "Auguri per il vostro Matrimonio!",
+        "image": "https://example.com/images/wedding1.jpg",
+        "message": "Che la vostra unione sia piena di gioia e amore! 💍",
+        "category": "Matrimonio"
+    },
+    {
+        "id": 25,
+        "title": "Felice vita insieme!",
+        "image": "https://example.com/images/wedding2.jpg",
+        "message": "Un matrimonio felice è un lungo dialogo che sembra sempre troppo breve.",
+        "category": "Matrimonio"
+    },
+    {
+        "id": 26,
+        "title": "Grazie di cuore!",
+        "image": "https://example.com/images/thank-you1.jpg",
+        "message": "Un piccolo pensiero per ringraziarti! 🙏",
+        "category": "Ringraziamento"
+    },
+    {
+        "id": 27,
+        "title": "Un grande grazie per tutto!",
+        "image": "https://example.com/images/thank-you2.jpg",
+        "message": "La gratitudine trasforma il poco in abbastanza.",
+        "category": "Ringraziamento"
+    },
+    {
+        "id": 28,
+        "title": "Tanti auguri!",
+        "image": "https://example.com/images/greetings1.jpg",
+        "message": "Un augurio speciale solo per te! ✨",
+        "category": "Auguri"
+    },
+    {
+        "id": 29,
+        "title": "Un pensiero per te!",
+        "image": "https://example.com/images/greetings2.jpg",
+        "message": "Ti auguro una giornata splendida!",
+        "category": "Auguri"
+    },
+    {
+        "id": 30,
+        "title": "Complimenti!",
+        "image": "https://example.com/images/congrats1.jpg",
+        "message": "Congratulazioni per questo grande traguardo! 🎉",
+        "category": "Congratulazioni"
+    },
+    {
+        "id": 31,
+        "title": "Benvenuto al mondo!",
+        "image": "https://example.com/images/birth1.jpg",
+        "message": "Tanti auguri per il nuovo arrivato! 👶",
+        "category": "Nascita"
+    },
+    {
+        "id": 32,
+        "title": "Buona Festa della Mamma!",
+        "image": "https://example.com/images/mothers-day1.jpg",
+        "message": "Grazie per tutto quello che fai! ❤️",
+        "category": "Festa della mamma"
+    },
+    {
+        "id": 33,
+        "title": "Buona Festa del Papà!",
+        "image": "https://example.com/images/fathers-day1.jpg",
+        "message": "Un grande abbraccio a un papà speciale! 💙",
+        "category": "Festa del papà"
+    },
+    {
+        "id": 34,
+        "title": "Per un'amica speciale",
+        "image": "https://example.com/images/friendship1.jpg",
+        "message": "Grazie per essere sempre presente! 💕",
+        "category": "Amicizia"
+    },
+    {
+        "id": 35,
+        "title": "Felice Anno Nuovo!",
+        "image": "https://example.com/images/newyear1.jpg",
+        "message": "Che l’anno nuovo ti porti tanta gioia e successi! 🎆",
+        "category": "Capodanno"
+    },
+    {
+        "id": 36,
+        "title": "Congratulazioni per la Laurea!",
+        "image": "https://example.com/images/graduation1.jpg",
+        "message": "Ce l’hai fatta! Ora inizia una nuova avventura! 🎓",
+        "category": "Laurea"
+    },
+    {
+        "id": 37,
+        "title": "Buona Fortuna!",
+        "image": "https://example.com/images/goodluck1.jpg",
+        "message": "Che la fortuna sia sempre dalla tua parte! 🍀",
+        "category": "Buona Fortuna"
+    },
+    {
+        "id": 38,
+        "title": "Un pensiero speciale per te",
+        "image": "https://example.com/images/other1.jpg",
+        "message": "Un piccolo gesto per dirti che ti penso! 💕",
+        "category": "Altro"
+    }
+    
+    
+  ]
+  
