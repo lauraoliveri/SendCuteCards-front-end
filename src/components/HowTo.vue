@@ -1,6 +1,6 @@
 <script>
 
-import { store } from '../../../store';
+import { store } from '../../store';
 export default {
   data() {
     return { 
@@ -88,7 +88,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '../../assets/scss/partials/variables' as *;
+@use '../assets/scss/partials/variables.scss' as *;
 
 
 section {

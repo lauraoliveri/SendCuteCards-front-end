@@ -16,7 +16,7 @@ export default {
         <div class="left_col">
             <div class="img_container">
                 <a href="#">
-                <img src="../../assets/images/teddy_bear_PNG94.png">
+                <img src="../assets/images/teddy_bear_PNG94.png">
                 </a>
             </div>
         </div>
@@ -51,7 +51,7 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '../../assets/scss/partials/variables' as *;
+@use '../assets/scss/partials/variables.scss' as *;
 
 .my_container {
     width: 90%;

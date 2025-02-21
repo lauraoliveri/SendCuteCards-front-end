@@ -6,11 +6,10 @@
   3) Utilizzo del componente
 */
 // 1) Importazione del componente
+import { RouterView } from 'vue-router';
 import AppFooter from './components/AppFooter.vue';
 import AppHeader from './components/AppHeader.vue';
-import AppMain from './components/Main/AppMain.vue';
-import HowTo from './components/Main/HowTo.vue';
-import OurService from './components/Main/OurService.vue';
+
 
 
 export default {
@@ -22,9 +21,6 @@ export default {
   // 2) Dichiarazione del componente
   components: {
     AppHeader,
-    AppMain,
-    OurService,
-    HowTo,
     AppFooter
   },
   methods: {
@@ -36,11 +32,12 @@ export default {
 <template>
   <div id="big_container" class="">
     <!-- 3) Utilizzo del componente -->
+
     <AppHeader />
-    <AppMain />
-    <OurService/>
-    <HowTo/>
+    <RouterView />
     <AppFooter/>
+    
+    
   </div>
 </template>
 

@@ -1,6 +1,5 @@
 <script>
-
-import { store } from '../../../store';
+import { store } from '../../store';
 export default {
   data() {
     return { 
@@ -29,7 +28,9 @@ export default {
                     Rendi ogni occasione speciale con una card unica.
                 </h6>
                 <button type="button" class="btn btn_custom mt-3">
+                  <router-link :to="{ name:'cards' }">
                     Inizia &#8594;
+                  </router-link>
                 </button>
             </div>
         </div>
@@ -38,18 +39,21 @@ export default {
 </template>
 
 <style lang="scss" scoped>
-@use '../../assets/scss/partials/variables' as *;
+@use '../assets/scss/partials/variables.scss' as *;
 
 section {
-    height: calc(80vh - 150px);
+  height: calc(80vh - 150px);
 }
 
 img  {
-    height: 500px;
+  width: 100%; /* Riempi il contenitore */
+  height: 500px; /* Altezza specifica */
+  object-fit: cover;
+    
 }
 .btn_custom {
-  background-color: $blushPink;
-  color: $blushPink;
+  background-color: $cherryPink;
+  color: $mainBrown;
 
   &:hover {
     background-color: $lightGrey;
@@ -57,13 +61,13 @@ img  {
 }
 
 .carousel-item {
-    position: relative;
+  position: relative;
 }
 
 .carousel_text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
 }
 </style>
